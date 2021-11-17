@@ -1,7 +1,1 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Desktop/projects/assignment-scala-3/target/scala-2.13/assignment-scala-3_2.13-0.1.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Factorial.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/projects/assignment-scala-3/target/scala-2.13/classes/Factorial.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Log.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/projects/assignment-scala-3/target/scala-2.13/classes/Log.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/knoldus/Desktop/projects/assignment-scala-3/target/scala-2.13/assignment-scala-3_2.13-0.1.jar[0m
